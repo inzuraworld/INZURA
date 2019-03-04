@@ -1,4 +1,7 @@
 # INZURA
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/0/05/Inzura_insurance.png)
+
 Crypto market have gone through lots and lots of hacks and scam over the past years. There are few hacks that have shook the crypto market down to its very core. Even the top most exchange that handled 70% of the world’s bitcoin exchanges have faced most unexpected hack. Yet the hack did not stop there, about 120,000 BTC which was worth $72 million was stolen in August 2016. The hack continued all over the world from small volume exchanges to huge volume exchanges. South Korea have faced $30 million worth of hack in cryptocurrency in 2018. Exchange in India was hacked and over 440 BTC was hacked back in early 2018. Users will not get back their lost cryptocurrency. To give solutions to all these problems, INZURA is developed and tested with the best in class protocol for insurance specially designed with cryptocurrency in mind. Inzura is the next revolutionary project in the crypto space. Inzura is an insurance token that allows users to claim their loss of cryptocurrency.
 
 Inzura is an ERC20 token which serves as an insurance token for your crypto asset. Inzura takes the crypto space to next level the way people see cryptocurrency. Inzura provides protection to your crypto asset by insuring your crypto asset like never before. Inzura is the world first token which serves as crypto insurance where you can cliam the lost/hacked/scammed cryptocurrency.
